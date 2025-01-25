@@ -18,7 +18,7 @@ public class Todo {
 
     private String descricao;
 
-    private String realizado;
+    private Boolean realizado;
 
     private int prioridade;
 
